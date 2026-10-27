@@ -17,8 +17,8 @@
 
 <br><br>
 
-**Student Name:** Khushbu Saini
-**Enrollment Number:** 240052
+**Student Name:** Khushi Goyal
+**Enrollment Number:** 240054
 
 <br>
 
