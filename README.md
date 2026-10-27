@@ -172,8 +172,9 @@ Lakshmangarh, Rajasthan
 
 To write a Python program to find the sum of two numbers.
 
+## Flowchart
+<img width="250" height="530" alt="image" src="https://github.com/user-attachments/assets/f451ba36-dd1f-48e4-85ae-219c45ae6514" />
 ## Program
-
 ```python
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
