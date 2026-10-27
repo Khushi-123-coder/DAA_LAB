@@ -174,7 +174,9 @@ To write a Python program to find the sum of two numbers.
 
 ## Flowchart
 <img width="250" height="530" alt="image" src="https://github.com/user-attachments/assets/f451ba36-dd1f-48e4-85ae-219c45ae6514" />
+
 ## Program
+
 ```python
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
@@ -203,6 +205,10 @@ Sum = 30
 ## Aim
 
 To write a Python program to find the largest among three numbers.
+
+## Flowchart
+
+<img width="1154" height="801" alt="image" src="https://github.com/user-attachments/assets/8ff5b365-9014-4e2d-ae78-d8ea9443522c" />
 
 ## Program
 
@@ -241,6 +247,9 @@ Largest number = 25
 ## Aim
 
 To write a Python program to calculate the factorial of a given number.
+
+## Flowchart
+<img width="339" height="744" alt="image" src="https://github.com/user-attachments/assets/b0d6662c-acb6-4e3a-b01c-49e3e6b7d710" />
 
 ## Program
 
