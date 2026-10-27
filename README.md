@@ -283,6 +283,10 @@ Factorial = 120
 
 To write a Python program to check whether a given number is prime or not.
 
+## Flowchart
+
+<img width="669" height="788" alt="image" src="https://github.com/user-attachments/assets/bd5fe377-6dff-4a00-b23c-016157d01694" />
+
 ## Program
 
 ```python
