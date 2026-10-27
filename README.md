@@ -327,6 +327,10 @@ Enter a number: 7
 
 To write a Python program to generate the Fibonacci series.
 
+## Flowchart
+
+<img width="243" height="674" alt="image" src="https://github.com/user-attachments/assets/34f7f049-ae6e-44b5-8d48-e0ffb8e6b541" />
+
 ## Program
 
 ```python
